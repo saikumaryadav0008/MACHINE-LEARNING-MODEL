@@ -60,6 +60,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Datasets sourced from [various vehicles and at various atmospheric conditions].
+- Datasets sourced from various vehicles and at various atmospheric conditions.
 - Libraries and frameworks used in this project.
 
